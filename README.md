@@ -2,7 +2,6 @@
 
 
 <br></br>
-https://convene23.netlify.app/ </br>
+https://rajmulik511.github.io/Convene23MultiPage/</br>
 </br>
-Hosted at </br>
-https://skncoeconvene.co.in
+
